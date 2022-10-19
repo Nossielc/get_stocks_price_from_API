@@ -1,0 +1,72 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.comdinheiro.com.br:443
+DEBUG:urllib3.connectionpool:https://www.comdinheiro.com.br:443 "POST /Clientes/API/EndPoint001.php?code=import_data HTTP/1.1" 200 None
+ERROR:root:Empresa: VIA já está na base com o codigo: 183.0 e cod_cvm: 006505
+INFO:root:Ativo: VIIA11 Adicionado!
+ERROR:root:Empresa: VIA já está na base com o codigo: 183.0 e cod_cvm: 006505
+INFO:root:Ativo: VIIA4 Adicionado!
+ERROR:root:Empresa: TEX RENAUX já está na base com o codigo: 333.0 e cod_cvm: 007544
+INFO:root:Ativo: TXRX11 Adicionado!
+ERROR:root:Empresa: IGUATEMI S.A já está na base com o codigo: 215.0 e cod_cvm: 008672
+INFO:root:Ativo: IGTI4 Adicionado!
+ERROR:root:Empresa: IGUATEMI S.A já está na base com o codigo: 215.0 e cod_cvm: 008672
+INFO:root:Ativo: JPSA11 Adicionado!
+ERROR:root:Empresa: MONT ARANHA já está na base com o codigo: 246.0 e cod_cvm: 008893
+INFO:root:Ativo: MOAR11 Adicionado!
+ERROR:root:Empresa: OI já está na base com o codigo: 51.0 e cod_cvm: 011312
+INFO:root:Ativo: TEPR3 Adicionado!
+ERROR:root:Empresa: OI já está na base com o codigo: 51.0 e cod_cvm: 011312
+INFO:root:Ativo: TEPR4 Adicionado!
+ERROR:root:Empresa: EMBPAR S/A já está na base com o codigo: 23.0 e cod_cvm: 015458
+INFO:root:Ativo: EPAR4 Adicionado!
+ERROR:root:Empresa: BONAIRE PART já está na base com o codigo: 938.0 e cod_cvm: 016560
+ERROR:root:getTipoAtivo: Nenhum tipo ativo identificado. Ticker: BNPA3B
+INFO:root:Ativo: BNPA3B Adicionado!
+ERROR:root:Empresa: YBYRA S/A já está na base com o codigo: 935.0 e cod_cvm: 016705
+ERROR:root:getTipoAtivo: Nenhum tipo ativo identificado. Ticker: YBRA3B
+INFO:root:Ativo: YBRA3B Adicionado!
+ERROR:root:Empresa: YBYRA S/A já está na base com o codigo: 935.0 e cod_cvm: 016705
+ERROR:root:getTipoAtivo: Nenhum tipo ativo identificado. Ticker: YBRA4B
+INFO:root:Ativo: YBRA4B Adicionado!
+ERROR:root:Empresa: RUMO S.A. já está na base com o codigo: 11.0 e cod_cvm: 017450
+INFO:root:Ativo: PIUM3 Adicionado!
+ERROR:root:Empresa: RUMO S.A. já está na base com o codigo: 11.0 e cod_cvm: 017450
+INFO:root:Ativo: PIUM4 Adicionado!
+ERROR:root:Empresa: CACONDE PART já está na base com o codigo: 928.0 e cod_cvm: 019135
+ERROR:root:getTipoAtivo: Nenhum tipo ativo identificado. Ticker: CACO11B
+INFO:root:Ativo: CACO11B Adicionado!
+ERROR:root:Empresa: BR PROPERT já está na base com o codigo: 508.0 e cod_cvm: 019925
+INFO:root:Ativo: BRPR11 Adicionado!
+ERROR:root:Empresa: DINAMICA ENE já está na base com o codigo: 969.0 e cod_cvm: 020052
+ERROR:root:getTipoAtivo: Nenhum tipo ativo identificado. Ticker: DNEN3B
+INFO:root:Ativo: DNEN3B Adicionado!
+ERROR:root:Empresa: MULTIPLAN já está na base com o codigo: 457.0 e cod_cvm: 020982
+INFO:root:Ativo: MULT4 Adicionado!
+ERROR:root:Empresa: BANCO PAN já está na base com o codigo: 481.0 e cod_cvm: 021199
+INFO:root:Ativo: BPAN11 Adicionado!
+INFO:root:Empresa: DUXXI codigo: 1497.0 Adicionada!
+INFO:root:Ativo: DXXI3 Adicionado!
+ERROR:root:Empresa: AZUL já está na base com o codigo: 898.0 e cod_cvm: 024112
+INFO:root:Ativo: AZUL3 Adicionado!
+ERROR:root:Empresa: SMART FIT já está na base com o codigo: 1175.0 e cod_cvm: 024260
+INFO:root:Ativo: SMFT13 Adicionado!
+INFO:root:INNT3 DESATIVADO!
+INFO:root:Empresa: FLEX S/A codigo: 1498.0 Adicionada!
+INFO:root:Ativo: FLEX3 Adicionado!
+ERROR:root:Empresa: BANCO BMG já está na base com o codigo: 1144.0 e cod_cvm: 024600
+INFO:root:Ativo: BMGB3 Adicionado!
+INFO:root:Empresa: LIFEMED codigo: 1499.0 Adicionada!
+INFO:root:Ativo: LMED3 Adicionado!
+ERROR:root:Empresa: AURA 360 já está na base com o codigo: 1249.0 e cod_cvm: 080187
+INFO:root:Ativo: AURA32 Adicionado!
+INFO:root:Empresa: RODOBENS codigo: 1500.0 Adicionada!
+INFO:root:Ativo: RBNS11 Adicionado!
+ERROR:root:Empresa: RODOBENS já está na base com o codigo: 1500.0 e cod_cvm: 025801
+INFO:root:Ativo: RBNS3 Adicionado!
+ERROR:root:Empresa: RODOBENS já está na base com o codigo: 1500.0 e cod_cvm: 025801
+INFO:root:Ativo: RBNS4 Adicionado!
+ERROR:root:Empresa: RAIZEN já está na base com o codigo: 1366.0 e cod_cvm: 025917
+INFO:root:Ativo: RAIZ3 Adicionado!
+INFO:root:Empresa: AGRIBRASIL codigo: 1501.0 Adicionada!
+INFO:root:Ativo: GRAO3 Adicionado!
+INFO:root:Empresa: COMERC PAR codigo: 1502.0 Adicionada!
+INFO:root:Ativo: COMR3 Adicionado!
