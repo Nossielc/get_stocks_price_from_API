@@ -1,7 +1,7 @@
 # get_stocks_price_from_API
 In this Python project, you can ingest all historycal data about stock pricing at IBOVESPA in your DataBase;
 
-## Hystorical Data
+## Historycal Data
 You just need to set an initial Data and an End data that this program will bring to you all the pricing informations for all the stocks that you want. For do that you need to had a initial table in you DataBase with all the stocks that you need to populate.
 
 ## Comdinheiro API
